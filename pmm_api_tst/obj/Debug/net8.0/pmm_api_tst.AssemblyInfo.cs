@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pmm_api_tst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c465494cd372f443a69a8b4d8e774a2d353e9c36")]
 [assembly: System.Reflection.AssemblyProductAttribute("pmm_api_tst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pmm_api_tst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
