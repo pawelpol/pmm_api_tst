@@ -1,0 +1,6 @@
+@pmm_api_tst_HostAddress = http://localhost:5129
+
+GET {{pmm_api_tst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
